@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wn+YoXQK06CvxVOPspf+WHtPo/3c3N3vfrNwe6F3t/gG9KL/3H5Kf3UAQfMk9TEJwEbxjMaEWuVU9phXB1L4Tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Josh-Tim\\source\\repos\\myphace\\myphace.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josh-Tim\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
+  ],
+  "logs": []
+}
